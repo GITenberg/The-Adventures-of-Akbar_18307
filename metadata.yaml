@@ -1,0 +1,36 @@
+_repo: The-Adventures-of-Akbar_18307
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shaw, Byam
+    alias: Shaw, John Byam Liston
+    birthdate: 1872
+    deathdate: 1919
+    gutenberg_agent_id: '7937'
+    url: http://www.gutenberg.org/2009/agents/7937
+covers:
+- cover_type: archival
+  image_path: 18307-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Steel, Flora Annie Webster
+    alias: Steel, F. A. (Flora Annie)
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '1973'
+    url: http://www.gutenberg.org/2009/agents/1973
+    wikipedia: http://en.wikipedia.org/wiki/Flora_Annie_Steel
+description: ''
+gutenberg_issued: '2006-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Akbar, emperor of Hindustan, 1542-1605 -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Adventures of Akbar
+url: http://www.gutenberg.org/ebooks/18307
